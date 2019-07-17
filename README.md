@@ -1,5 +1,7 @@
 # Cryptocurrency portfolio Sharpe ratio optimization
-This repository contains a Jupyter notebook with a cryptocurrency portfolio investment strategy, although it could be generalized to other securities. 
+This repository contains a Jupyter notebook with an investment strategy for cryptocurrency portfolios, although it could be generalized to other securities. 
+ 
+![](sharpe_optimization.JPG)
  
 The structure of the program is as follows:
 - use api to read-in crypto price data 
